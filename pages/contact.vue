@@ -212,10 +212,12 @@ export default {
 
   .subject {
     width: 100%;
+    float: right;
   }
 
   .telephone {
     width: 100%;
+    float: left;
   }
 
   textarea {
@@ -269,7 +271,7 @@ export default {
 
   @media screen and (max-width: 768px) {
     #container {
-      margin: 20px auto;
+      margin: 9em auto 0 auto;
       width: 95%;
     }
   }
