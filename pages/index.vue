@@ -6,9 +6,6 @@
       <h1 class="title">
         Insprd Design
       </h1>
-      <h2 class="subtitle">
-        What Inspires You?
-      </h2>
       <!--<div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -56,16 +53,16 @@ export default {
   font-family: 'Playfair Display', serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
-  color: #35495e;
+  font-size: 5em;
+  color: #121212;
   letter-spacing: 1px;
   margin: 1rem;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
-  color: #526488;
+  font-size: 3em;
+  color: #343434;
   word-spacing: 5px;
   padding-bottom: 15px;
 }
