@@ -48,7 +48,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("https://cdn.pixabay.com/photo/2017/01/18/15/51/paper-1990111_1280.jpg");
+  background: url("https://cdn.pixabay.com/photo/2017/01/18/15/51/paper-1990111_1280.jpg") center no-repeat;
   background-size: cover;
 }
 
