@@ -1,7 +1,7 @@
 {
-  "name": "Insprd Design",
+  "name": "Website",
   "version": "1.0.0",
-  "description": "A full-stack design agency that will help keep your customers Insprd",
+  "description": "A full-stack design agency that will help keep you Insprd",
   "author": "Dmitri Atrash",
   "private": true,
   "scripts": {
