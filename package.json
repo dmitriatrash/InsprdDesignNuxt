@@ -1,7 +1,7 @@
 {
-  "name": "nuxtapp",
+  "name": "Insprd Design",
   "version": "1.0.0",
-  "description": "My badass Nuxt.js project",
+  "description": "A full-stack design agency that will help keep your customers Insprd",
   "author": "Dmitri Atrash",
   "private": true,
   "scripts": {
